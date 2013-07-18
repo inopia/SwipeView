@@ -121,7 +121,6 @@ body {
 	-o-transition-property:opacity;
 	transition-property:opacity;
 	opacity:1;
-	pointer-events:none;
 }
 
 #swipeview-slider span {
